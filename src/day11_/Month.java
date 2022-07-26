@@ -83,7 +83,7 @@ public static void main(String[] args) {
 		System.out.println("Batch 12");
 	}
 	else {
-		System.out.println("Cybertek");
+		System.out.println("Cybertek2222222");
 	}
 	
 	
